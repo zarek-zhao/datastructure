@@ -19,5 +19,6 @@ public class Main {
 //        arrayList.remove();
 //        arrayList.size();
 //        arrayList.clear();
+
     }
 }

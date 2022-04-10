@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/02-复杂度/02-复杂度.iml" filepath="$PROJECT_DIR$/02-复杂度/02-复杂度.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-动态数组/03-动态数组.iml" filepath="$PROJECT_DIR$/03-动态数组/03-动态数组.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-链表/04-链表.iml" filepath="$PROJECT_DIR$/04-链表/04-链表.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-树/07-树.iml" filepath="$PROJECT_DIR$/07-树/07-树.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/datastructure.iml" filepath="$PROJECT_DIR$/.idea/datastructure.iml" />
+    </modules>
+  </component>
+</project>
